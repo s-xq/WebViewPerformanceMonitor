@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\WebViewPerformanceMonitor\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba2521316af24f4e35972954a160ef9dabcd509f">
+        <dex dex="F:\WebViewPerformanceMonitor\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_348104ddc79030e6204f0135f7f8e2885b64fcaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\WebViewPerformanceMonitor\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\WebViewPerformanceMonitor\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_50725d13542adddec7cd846ce3d0b171c593b9cf\classes.dex" />
+    </item>
+
+</items>
